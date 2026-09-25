@@ -1,0 +1,8 @@
+{
+  "name": "internal-partial-indexing",
+  "private": true,
+  "dependencies": {
+    "@sanity/client": "^6.8.5",
+    "yargs": "^17.7.2"
+  }
+}
